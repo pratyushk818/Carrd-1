@@ -105,3 +105,10 @@
         height:650px;
     }
 }
+@media(max-width:420px)
+{
+    .card{
+        height:550px;
+        width:300px;
+    }
+}
